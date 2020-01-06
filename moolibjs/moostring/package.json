@@ -1,8 +1,8 @@
 {
-  "name": "moolibjs",
+  "name": "moostring",
   "version": "1.0.0",
-  "description": "mooflower js library",
-  "main": "index.js",
+  "description": "mooflower js string library",
+  "main": "moostring.js",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
